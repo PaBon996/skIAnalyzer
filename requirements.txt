@@ -1,5 +1,6 @@
 streamlit
 mediapipe==0.10.18
+opencv-python-headless
+pillow
 numpy
 pandas
-Pillow
