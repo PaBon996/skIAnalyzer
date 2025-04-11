@@ -1,0 +1,31 @@
+
+body {
+    background-color: #0d1b2a;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+}
+
+.title {
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.highlight {
+    color: #00b4d8;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 1.2em;
+    color: #adb5bd;
+    margin-bottom: 2rem;
+}
+
+.upload-section {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.2em;
+    color: #ffffff;
+}
